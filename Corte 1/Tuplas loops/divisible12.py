@@ -1,1 +1,1 @@
-
+{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[{"file_id":"1dH5DuQ3W6N2FHIOWEuQgKff--KeLqG-V","timestamp":1725579606315}],"authorship_tag":"ABX9TyMFNoIX1Yq6v1O+OkLhOUo/"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":null,"metadata":{"id":"5oVfzjNlf8UY"},"outputs":[],"source":["for i in range(100, 301):\n","    if (i%12) != 0:\n","        continue\n","    print(i)"]}]}
